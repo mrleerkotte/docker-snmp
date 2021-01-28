@@ -13,4 +13,4 @@ WORKDIR /home/snmp
 
 USER snmp
 
-ENTRYPOINT ["sh"]
+CMD ["sh"]
